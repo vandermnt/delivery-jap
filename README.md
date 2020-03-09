@@ -17,7 +17,7 @@ Sistema web que tem como objetivo de melhorar e automatizar o ambiente de trabal
 * [PHP](https://www.php.net/) | [JavaScript](https://www.javascript.com/) - Linguagens usada.
 * [Laravel](https://laravel.com/) - Framework usado.
 * [MySql](https://www.mysql.com/) - Banco de Dados utilizado.
-* [IDE ATOM](https://ide.atom.io/) - IDE utilizado.
+* [ATOM](https://ide.atom.io/) - IDE utilizado.
 
 ## Autor
 
