@@ -4,7 +4,7 @@ Software desenvolvido na linguagem PHP, diante do framework Laravel.
 
 ## Aplicação
 
-Tem como objetivo de melhorar e automatizar o ambiente de trabalho do estabelecimento. Com isso também dando mais praticidade ao cliente, podendo fazer seu pedido da onde estiver.
+Sistema web que tem como objetivo de melhorar e automatizar o ambiente de trabalho do estabelecimento. Com isso também dando mais praticidade ao cliente, podendo fazer seu pedido da onde estiver.
 
 ## Pré requisitos
 
