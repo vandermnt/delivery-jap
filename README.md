@@ -16,7 +16,8 @@ Tem como objetivo de melhorar e automatizar o ambiente de trabalho do estabeleci
 
 * [PHP](https://www.php.net/) - Linguagem usada.
 * [Laravel](https://laravel.com/) - Framework usado.
-* [IDE](https://ide.atom.io/) - IDE utilizado - Atom.
+* [MySql](https://www.mysql.com/) - Banco de Dados utilizado.
+* [IDE ATOM](https://ide.atom.io/) - IDE utilizado.
 
 ## Autor
 
