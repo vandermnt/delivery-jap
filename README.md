@@ -1,4 +1,4 @@
-# Software de Delivery
+# 🍔 Software de Delivery
 
 Software desenvolvido na linguagem PHP, diante do framework Laravel.
 
